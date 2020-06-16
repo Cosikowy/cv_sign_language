@@ -1,4 +1,4 @@
-# cv_sign_language
+# sign_language
 Sign Language Detector
 
 
